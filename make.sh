@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd /home/jovyan/UnderTheCovers-IM/C/CS210-S23-PS6/ccalc/src
 ls
 ln -s ccalc.mk Makefile
